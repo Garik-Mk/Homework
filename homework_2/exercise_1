@@ -1,0 +1,12 @@
+v1king@aiersi:~$ mkdir rau
+v1king@aiersi:~$ cd rau
+v1king@aiersi:~/rau$ mkdir rau_0
+v1king@aiersi:~/rau$ mkdir rau_1
+v1king@aiersi:~/rau$ cd rau_1
+v1king@aiersi:~/rau/rau_1$ touch simple
+v1king@aiersi:~/rau/rau_1$ ls
+simple
+v1king@aiersi:~/rau/rau_1$ cd ../rau_0
+v1king@aiersi:~/rau/rau_0$ cp ../rau_1/simple .
+v1king@aiersi:~/rau/rau_0$ cd
+v1king@aiersi:~$ rm -rf rau
