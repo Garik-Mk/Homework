@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/v1king/My_own_scripts/Homework/homework_9/cat.py", line 9, in <module>
+    output = cat(sys.argv[1])
+  File "/home/v1king/My_own_scripts/Homework/homework_9/cat.py", line 4, in cat
+    f = open(input_file, 'r')
+FileNotFoundError: [Errno 2] No such file or directory: 'sofile.txt'
