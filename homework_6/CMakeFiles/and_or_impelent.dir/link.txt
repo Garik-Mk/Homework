@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/and_or_impelent.dir/and_or_impelent.cpp.o -o and_or_impelent 

@@ -1,0 +1,3 @@
+/home/v1king/My_own_scripts/Homework/homework_6/CMakeFiles/rebuild_cache.dir
+/home/v1king/My_own_scripts/Homework/homework_6/CMakeFiles/edit_cache.dir
+/home/v1king/My_own_scripts/Homework/homework_6/CMakeFiles/and_or_impelent.dir

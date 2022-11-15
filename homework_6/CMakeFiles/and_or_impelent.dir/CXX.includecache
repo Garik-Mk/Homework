@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/v1king/My_own_scripts/Homework/homework_6/and_or_impelent.cpp
+iostream
+-
+unistd.h
+-
+sys/wait.h
+-
+cstring
+-
+
