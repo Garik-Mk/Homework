@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/v1king/My_own_scripts/Homework/homework_5/average_calucalte.c
+stdio.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+unistd.h
+-
+stdlib.h
+-
+

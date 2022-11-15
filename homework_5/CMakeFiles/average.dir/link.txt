@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/average.dir/average_calucalte.c.o -o average 
